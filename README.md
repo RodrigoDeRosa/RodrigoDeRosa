@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hey, there! I'm Rodri De Rosa 🦀
 
-<!--
-**RodrigoDeRosa/RodrigoDeRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A music-loving, football-addicted and boxing-enthusiast Software Engineer on a quest to satisfy his curiosity about nearly everything.
 
-Here are some ideas to get you started:
+Hope you find what you're looking for in my [repositories](https://github.com/RodrigoDeRosa?tab=repositories)! If you don't, do reach out
+and I'll try to help as soon as I can. In the meantime, you might be curious about the same stuff I am, so you can snoop around
+[my blog](https://www.rodrigoderosa.com) (hey! it's a work in progress).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Although I like to say I'm a Software Engineer (not backend developer and most certainly not a Java or a Python developer), the coincidences
+of life have put me on the backend path of the industry and that's what I've been doing for a while; first in the e-commerce industry back
+in Buenos Aires, later in the digital groceries (and warehouse automation) business when first moving to Amsterdam and now in
+the finance business, in which I'm trying to help build the awesome [Secfi](https://secfi.com/). Along this way I've worked mostly with Java
+and Python, building from services used by thousands a second, through systems that simply control a robot in a warehouse to some nice looking
+financial graphs.
