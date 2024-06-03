@@ -1,6 +1,6 @@
 ## Hey, there! I'm Rodri De Rosa 🦀
 
-A music-loving, football-addicted and boxing-enthusiast Software Engineer on a quest to satisfy his curiosity about nearly everything.
+A music-loving, football-addicted and martial-arts-enthusiast Software Engineer on a quest to satisfy his curiosity about nearly everything.
 
 Hope you find what you're looking for in my [repositories](https://github.com/RodrigoDeRosa?tab=repositories)! If you don't, do reach out
 and I'll try to help as soon as I can. In the meantime, you might be curious about the same stuff I am, so you can snoop around
